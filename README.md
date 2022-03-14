@@ -2,6 +2,7 @@
 
 
 - 🔭 Hoje trabalho como estagiário de TI
+- 👨‍💻 Meu foco é ser um Dev
 - 🌱 Atualmente estou estudando Javascript, Dart e Java
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 - 😄 Pronomes: ele/dele
