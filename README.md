@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como estagiário de TI
 - 👨‍💻 Meu foco é ser um Dev
-- 🌱 Atualmente estou estudando Javascript, Dart e Java
+- 🌱 Atualmente estou estudando Javascript e Flutter/Dart
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 
 ##
@@ -21,7 +21,7 @@
   <img align="center" alt="Celso-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3">
   <img align="center" alt="Celso-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript">
   <img align="center" alt="Celso-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter">
-  <img align="center" alt="Celso-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java">
+  <img align="center" alt="Celso-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" title="Java">
 </div>
   
 ##
