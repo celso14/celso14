@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como estagiário de TI
 - 👨‍💻 Meu foco é ser um desenvolvedor
-- 🌱 Atualmente estou estudando Javascript e Flutter/Dart
+- 🌱 Atualmente estou estudando Java e Flutter/Dart
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 
 ##
