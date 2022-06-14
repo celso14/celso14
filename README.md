@@ -21,9 +21,9 @@
   <img align="center" alt="Celso-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3">
   <img align="center" alt="Celso-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript">
   <img align="center" alt="Celso-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter">
+  <img align="center" alt="Celso-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java">
 </div>
-  <img align="center" alt="Celso-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java">
-</div>
+
   
 ##
   
