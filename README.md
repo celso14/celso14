@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como estagiário de TI
 - 👨‍💻 Meu foco é ser um desenvolvedor
-- 🌱 Atualmente estou estudando Python
+- 🌱 Atualmente estou estudando Django e Node.ts
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 
 ##
