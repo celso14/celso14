@@ -1,4 +1,4 @@
-### Olá! Sou o Celso 👋
+### Olá! Meu nome é Celso 👋
 
 
 - 🔭 Hoje trabalho como estagiário de TI
