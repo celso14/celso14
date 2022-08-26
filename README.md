@@ -20,7 +20,7 @@
   <img align="center" alt="Celso-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5">
   <img align="center" alt="Celso-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3">
   <img align="center" alt="Celso-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript">
-  <img align="center" alt="Celso-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter">
+  <img align="center" alt="Celso-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Djangor">
   <img align="center" alt="Celso-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python">
 </div>
 
