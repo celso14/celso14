@@ -21,8 +21,7 @@
   <img align="center" alt="Celso-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3">
   <img align="center" alt="Celso-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript">
   <img align="center" alt="Celso-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript">
-  <img align="center" alt="Celso-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django">
-  <img align="center" alt="Celso-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python">
+    <img align="center" alt="Celso-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node">
 </div>
 
   
