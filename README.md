@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje trabalho como estagiário de TI
-- 👨‍💻 Meu foco é ser um desenvolvedor
-- 🌱 Atualmente estou estudando Node com Typescript
+- 👨‍💻 Meu foco é ser um desenvolvedor Back-End
+- 🌱 Atualmente estou estudando Nestjs
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 
 ##
