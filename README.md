@@ -22,6 +22,7 @@
   <img align="center" alt="Celso-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript">
   <img align="center" alt="Celso-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript">
     <img align="center" alt="Celso-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node">
+    <img align="center" alt="Celso-Nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Node">
 </div>
 
   
