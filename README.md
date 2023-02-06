@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Celso 👋
 
 
-- 🔭 Hoje trabalho como estagiário Dev. FullStack
+- 🔭 Hoje trabalho como estagiário de desenvolvimento
 - 👨‍💻 Meu foco é ser um desenvolvedor Back-End
-- 🌱 Atualmente estou estudando Nestjs
+- 🌱 Atualmente estou estudando Nodejs
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 
 ##
