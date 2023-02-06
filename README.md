@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como estagiário de desenvolvimento
 - 👨‍💻 Meu foco é ser um desenvolvedor Back-End
-- 🌱 Atualmente estou estudando Nodejs
+- 🌱 Atualmente estou estudando Nodejs + Express
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 
 ##
