@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como estagiário de desenvolvimento
-- 🎯 Meu foco é ser um desenvolvedor Back-End
+- 🎯 Meu foco é ser um desenvolvedor especialista em Back-End
 - 👨‍💻 Trabalho com NestJs e Typescript
 - 🌱 Atualmente estou estudando Java + Spring Boot
 - 💬 Contate-me no email: botelhocelso99@gmail.com
