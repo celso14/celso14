@@ -18,8 +18,8 @@
 ##  
   
 <div style="display: inline_block"><br>
-      <img align="center" alt="Celso-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node">
       <img align="center" alt="Celso-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"         title="Typescript">
+      <img align="center" alt="Celso-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node">
       <img align="center" alt="Celso-Nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nestjs">
       <img align="center" alt="Celso-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java">
       <img align="center" alt="Celso-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring">
