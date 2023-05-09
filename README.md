@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Celso 👋
 
 
-- 🔭 Hoje trabalho como estagiário de desenvolvimento
-- 👨‍💻 Atualmente trabalho com Typescript, Nest e React
+- 🔭 Hoje trabalho como Desenvolvedor Fullstack Jr
+- 👨‍💻 Atualmente trabalho com Typescript, Angular, Java, Spring e Flutter
 - 🌱 Estou estudando Java + Spring Boot
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 
