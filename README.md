@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Desenvolvedor Fullstack Jr
-- 👨‍💻 Atualmente trabalho com Typescript, Angular, Java, Spring e Flutter
+- 👨‍💻 Atualmente trabalho com Typescript, Angular, Java e Spring
 - 🌱 Estou estudando Java + Spring
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 
