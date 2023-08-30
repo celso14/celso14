@@ -22,7 +22,6 @@
       <img align="center" alt="Celso-Nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nestjs">
       <img align="center" alt="Celso-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java">
       <img align="center" alt="Celso-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring">
-      <img align="center" alt="Celso-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter">
       <img align="center" alt="Celso-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker">
   </div>
   
