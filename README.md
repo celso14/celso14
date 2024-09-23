@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Celso 👋
 
 
-- 🔭 Hoje trabalho como Desenvolvedor Fullstack Jr
-- 👨‍💻 Atualmente trabalho com Typescript, Angular, Java e Spring
-- 🌱 Estou estudando Java + Spring
+- 🔭 Hoje trabalho como Desenvolvedor BackEnd
+- 👨‍💻 Atualmente trabalho com PHP, Laravel, Java e Spring
+- 🌱 Estou estudando Java + Spring & PHP + Laravel 
 - 💬 Contate-me no email: botelhocelso99@gmail.com
 
 ##
